@@ -12,8 +12,8 @@
 ##
 ### *** 빌드 방법
 ### - STS(sts-4.8.0.RELEASE) 활용
-####  1) https://github.com/wanted1213/NICE_HOMEWORK.git 에서 다운로드
-#### 	2) STS에서 해당 프로젝트(demo) Import(Maven > Existing Maven Projects)
+####  1) https://github.com/wanted1213/NICE_HOMEWORK.git 에서 프로젝트 다운로드
+#### 	2) STS에서 해당 프로젝트(demo) Import (Maven > Existing Maven Projects)
 #### 	3) Maven 라이브러리 다운로드(대기 시 자동)
 #### 	4) Maven > Update Project
 ####  5) Run As > Maven clean
